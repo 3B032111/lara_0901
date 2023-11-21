@@ -21,6 +21,8 @@
             <th scope="col">#</th>
             <th scope="col" style="text-align:left">標題</th>
             <th scope="col" style="text-align:right">精選?</th>
+            <th scope="col" >功能</th>
+
         </tr>
         </thead>
         <tbody>
